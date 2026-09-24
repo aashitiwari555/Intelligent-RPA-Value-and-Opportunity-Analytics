@@ -95,7 +95,7 @@ pip install -r requirements.txt
 ## How to Run
 
 ```bash
-streamlit run app.py
+streamlit run AashiTiwari_IntelligentRPAValueAndAutomationOpportunityAnalytics.py
 ```
 
 The dashboard will open automatically in your default browser at `http://localhost:8501`.
@@ -139,13 +139,13 @@ All filters apply globally across all four dashboard tabs.
 
 ```
 IBM_Internship_RPA_Project/
-├── app.py                          # Main Streamlit dashboard application
-├── requirements.txt                # Python dependencies
-├── README.md                       # This file
-├── project_report.docx             # Written project report
-├── rpa-analytics-plan.md           # Implementation plan
+├── AashiTiwari_IntelligentRPAValueAndAutomationOpportunityAnalytics.py                          # Main Streamlit dashboard application
+├── requirements.txt                                                                             # Python dependencies
+├── README.md                                                                                    # This file
+├── AashiTiwari_ProjectReport.docx                                                               # Written project report
+├── rpa-analytics-plan.md                                                                        # Implementation plan
 └── dataset/
-    └── automation_projects.csv     # 50,000-row dataset
+    └── automation_projects.csv                                                                  # 50,000-row dataset
 ```
 
 ---
